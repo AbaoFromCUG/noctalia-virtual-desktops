@@ -1,0 +1,22 @@
+{
+    "bar": {
+        "character-count-description": "Number of characters to display from virtual desktop names (1-10).",
+        "character-count-label": "Character count",
+        "enable-scrollwheel-description": "Switch between virtual desktops using the mouse scroll wheel.",
+        "enable-scrollwheel-label": "Scroll to switch virtual desktops",
+        "follow-focused-screen-description": "Display virtual desktops from the currently focused screen, rather than the screen where the bar is located.",
+        "follow-focused-screen-label": "Follow focused screen",
+        "grouped-border-opacity-description": "Set the opacity level for virtual desktop container borders.",
+        "grouped-border-opacity-label": "Border opacity",
+        "hide-unpopulated-description": "Don't display virtual desktops without windows.",
+        "hide-unpopulated-label": "Hide unpopulated",
+        "label-mode-description": "Choose how virtual desktop labels are displayed.",
+        "label-mode-label": "Label mode",
+        "show-applications-description": "Display application icons inside each virtual desktop.",
+        "show-applications-label": "Show applications",
+        "show-labels-only-when-populated-description": "Only show virtual desktop labels when they contain windows.",
+        "show-labels-only-when-populated-label": "Show labels only when populated",
+        "unfocused-icons-opacity-description": "Set the opacity level for unfocused app icons.",
+        "unfocused-icons-opacity-label": "Unfocused icons opacity"
+    }
+}

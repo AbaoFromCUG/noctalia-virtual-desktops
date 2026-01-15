@@ -1,0 +1,32 @@
+{
+    "id": "noctalia-virtual-desktops",
+    "name": "Virtual Desktops",
+    "version": "1.0.0",
+    "minNoctaliaVersion": "3.6.0",
+    "author": "Abao Zhang",
+    "license": "MIT",
+    "repository": "https://github.com/AbaoFromCUG/noctalia-virtual-desktops",
+    "description": "A noctalia plugin to display virtual desktops.",
+    "entryPoints": {
+        "barWidget": "VirtualDesktops.qml",
+        "settings": "Settings.qml"
+    },
+    "dependencies": {
+        "plugins": []
+    },
+    "metadata": {
+        "defaultSettings": {
+            "characterCount": 10,
+            "colorizeIcons": false,
+            "enableScrollWheel": true,
+            "followFocusedScreen": false,
+            "groupedBorderOpacity": 1,
+            "hideUnpopulated": true,
+            "iconScale": 1,
+            "labelMode": "index",
+            "showApplications": false,
+            "showLabelsOnlyWhenPopulated": true,
+            "unfocusedIconsOpacity": 1
+        }
+    }
+}
