@@ -929,6 +929,7 @@ Item {
                            if (!model)
                            return;
                            if (mouse.button === Qt.LeftButton) {
+                             Hyprland.dispatch(`vdesk ${groupedContainer.virtualDesktopModel.id}`)
                              CompositorService.focusWindow(model);
                            }
                          }

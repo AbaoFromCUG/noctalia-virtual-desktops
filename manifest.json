@@ -7,6 +7,10 @@
     "license": "MIT",
     "repository": "https://github.com/AbaoFromCUG/noctalia-virtual-desktops",
     "description": "A noctalia plugin to display virtual desktops.",
+    "tags": [
+        "Bar",
+        "Hyprland"
+    ],
     "entryPoints": {
         "barWidget": "VirtualDesktops.qml",
         "settings": "Settings.qml"
