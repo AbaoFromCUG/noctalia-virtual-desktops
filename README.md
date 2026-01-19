@@ -6,14 +6,8 @@ A noctalia plugin for [hyprland virtual desktops](https://github.com/levnikmyski
 
 ## Usage
 
-### Installation from plugin registry
-
-TODO, only manual installation is supported for now.
-
-### Manual Installation
-
-1. `git clone https://github.com/AbaoFromCUG/noctalia-virtual-desktops ~/.config/noctalia/plugins/noctalia-virtual-desktops`
-2. Restart `noctalia`, then enable `Virtual Desktops` in Noctalia's plugin settings
+1. Add `https://github.com/AbaoFromCUG/noctalia-virtual-desktops` as plugin source URL
+2. Install `Virtual Desktops` plugin from `Available` Tab
 3. Add `Virtual Desktops` to your bar
 4. Open the plugin settings
 
