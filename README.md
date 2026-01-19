@@ -34,6 +34,7 @@ TODO, only manual installation is supported for now.
 ![Virtual Desktop with Application](./index_with_application.png)
 
 - Plugin Settings
+
 ![Settings](./settings.png)
 
 ## TODO
